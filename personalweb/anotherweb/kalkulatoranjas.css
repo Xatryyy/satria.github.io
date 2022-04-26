@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+.text {
+  color: grey;
+  font-family: "Poppins", sans-serif;
+}
+.tempatbutton {
+  width: 800px;
+  height: 400px;
+  margin: 30px auto;
+  border: 2px solid black;
+  display: block;
+}
+#tambah {
+  background: none;
+  padding: 13px;
+  border: 3px solid grey;
+  color: grey;
+  cursor: pointer;
+  margin: 20px;
+}
+.kurang {
+  background: none;
+  padding: 13px;
+  border: 3px solid grey;
+  color: grey;
+  margin: 20px;
+  cursor: pointer;
+}
+.bagi {
+  background: none;
+  padding: 13px;
+  border: 3px solid grey;
+  color: grey;
+  margin: 20px;
+  cursor: pointer;
+}
+.kali {
+  background: none;
+  padding: 13px;
+  border: 3px solid grey;
+  color: grey;
+  margin: 20px;
+  cursor: pointer;
+}
